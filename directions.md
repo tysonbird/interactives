@@ -10,6 +10,6 @@ Here is the way to publish stuff to GitHub using Terminal:
 7. Work away in Sublime being cool af. Save it in the repo and remember the name.
 8. "git status" will now show that there are new files.
 9. Type "git add ##NAME OF THING AND PATH##" and hit enter.
-10. Type "git commit -M "##DESCRIBE THE COMMIT##" and enter.
+10. Type "git commit -m "##DESCRIBE THE COMMIT##" and enter.
 11. git push origin <!!branch name here!!!>
 12. Should now be on GitHub.
